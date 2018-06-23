@@ -11,8 +11,6 @@
   
     <h1>Public Chat Room</h1>
     
-    <!--This page goes first-->
-    
     <form action = "loadMes.jsp?action=login" method = "post">
     <p>Please enter your name:</p>
     <input type = "text" name = "username" id = "username"/><br />
